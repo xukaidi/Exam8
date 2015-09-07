@@ -1,0 +1,12 @@
+com\hand\action\AddAction.class
+com\hand\util\Film.class
+com\hand\util\IdEntity.class
+com\hand\action\LoginAction.class
+com\hand\dao\UserDao.class
+com\hand\action\EditAction.class
+com\hand\action\DeleteAction.class
+com\hand\util\User.class
+com\hand\dao\FilmDaoImpl.class
+com\hand\jdbc\ConnectionFactory.class
+com\hand\dao\FilmDao.class
+com\hand\dao\UserDaoImpl.class
